@@ -12,7 +12,7 @@ uid: dbdb449f-9aea-f745-4b10-c97c28a45f1b
 
 The project materials presented below are courtesy of Korn Chinsawananon, Kari Hodges, Sora Bae Kim, and Nicholas Sze, and are used with permission.
 
-{{< resource 75054694-0115-1bd0-1b3c-303ee6f0ea30 "Patients sitting outside of a clinic." >}}
+{{< resource "75054694-0115-1bd0-1b3c-303ee6f0ea30" >}}
 
 During their visit, the team observed six clinics and conducted over 80 interviews with competitors, Unjani nurses and staff, customers, and consumers. The team outlined standardized marketing models, partnerships, and nurse-designed training materials with the hopes that they will ensure quality of customer experience and a consistent value proposition.
 
